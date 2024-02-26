@@ -4,7 +4,7 @@ I made this project as my personal portofolio while still studying in Computer E
 
 Skills: C++ / Internet of Things (IoT) / Arduino / ESP32 / SQL 
 
-- 🔭 I’m currently working on Computer Vision especially Geospatial Analysis 
+- 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning ROS (Robot Operating System) 
 - 📫 How to reach me: dn.mahardika28@gmail.com 
 
